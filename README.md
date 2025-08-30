@@ -14,8 +14,16 @@ A simple Chrome extension that lets you **collect questions from online tests** 
 ---
 
 ## 🖼️ Demo  
-![Extension Screenshot](screenshot.png)  
-*(Add an actual screenshot here once ready)*  
+
+### Popup  
+![Popup Screenshot](assets/screenshot-popup.png)  
+
+### Collecting a Question  
+![Collect Screenshot](assets/screenshot-collect.png)  
+
+### Exported File  
+![Export Screenshot](assets/screenshot-export.png)  
+
 
 ---
 
